@@ -1,10 +1,12 @@
 # 👨🏻‍💻 Arthur Sanches
+Full-Stack Developer in Training · Open to Internship Opportunities
 
-**` web Desenvolvedor em formação`**
+Hey, I'm Arthur Sanches — an Information Systems student at UCL 
+(East Campus), driven by a genuine curiosity for how things work 
+under the hood. I'm passionate about software development and 
+building real solutions, always picking up new skills and putting 
+everything into practice through personal projects.
 
-Hey, I'm Arthur Sanches — an Information Systems student at UCL (East Campus), driven by a genuine curiosity for how things work under the hood.
-I'm passionate about software development, building digital solutions, and never really stopping learning. I believe technology is one of the most powerful tools we have to turn ideas into something real and meaningful — and that belief keeps me pushing forward.
-I'm always picking up new skills, exploring different areas of development, and putting everything I learn into practice through personal projects.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/arthur-ávila/">
@@ -26,7 +28,7 @@ I'm always picking up new skills, exploring different areas of development, and 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -129,7 +131,7 @@ I'm always picking up new skills, exploring different areas of development, and 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
