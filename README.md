@@ -2,7 +2,9 @@
 
 **` web Desenvolvedor em formação`**
 
-Me chamo Arthur Avila Sobreira Sanches, tenho 21 anos e sou estudante de Sistemas de Informação na UCL (Campus Leste).Sou apaixonado por tecnologia e movido pela curiosidade de entender como as coisas funcionam. Tenho grande interesse em desenvolvimento de software, criação de soluções digitais e aprendizado contínuo.Acredito que a tecnologia é uma ferramenta capaz de transformar ideias em soluções reais. Por isso, estou constantemente buscando novos conhecimentos, explorando diferentes áreas do desenvolvimento e colocando em prática tudo o que aprendo através de projetos pessoais.
+Hey, I'm Arthur Sanches — an Information Systems student at UCL (East Campus), driven by a genuine curiosity for how things work under the hood.
+I'm passionate about software development, building digital solutions, and never really stopping learning. I believe technology is one of the most powerful tools we have to turn ideas into something real and meaningful — and that belief keeps me pushing forward.
+I'm always picking up new skills, exploring different areas of development, and putting everything I learn into practice through personal projects.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/arthur-ávila/">
